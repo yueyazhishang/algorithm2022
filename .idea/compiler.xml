@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <excludeFromCompile>
-      <directory url="file://$PROJECT_DIR$/algorithm01/src/main/resources/archetype-resources" includeSubdirectories="true" />
-    </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -13,5 +10,10 @@
         <module name="algorithmbasic2020" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="algorithm01" target="1.5" />
+      <module name="algorithm2022" target="1.5" />
+      <module name="algorithmbasic2020" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
