@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367b501b-dfd3-42f7-858f-1c5f31d14600" name="Changes" comment="项目初始化">
-      <change afterPath="$PROJECT_DIR$/algorithm01/src/main/com.lzx.algorithm/sort/MySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithmbasic2020/src/class01/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithmbasic2020" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmbasic2020" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithmbasic2020/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithmbasic2020/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithmbasic2020/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="367b501b-dfd3-42f7-858f-1c5f31d14600" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithm01/src/main/com/lzx/algorithm/xor/Xor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +45,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "/Users/lizhanxiang/IDE/github/algorithm2022",
@@ -71,9 +62,16 @@
       <recent name="$PROJECT_DIR$/algorithmbasic2020" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Xor">
     <configuration name="MySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lzx.algorithm.sort.MySort" />
+      <module name="algorithm01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Xor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzx.algorithm.xor.Xor" />
       <module name="algorithm01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Xor" />
         <item itemvalue="Application.MySort" />
       </list>
     </recent_temporary>
@@ -111,7 +110,7 @@
       <workItem from="1666434764159" duration="464000" />
       <workItem from="1666435270908" duration="3134000" />
       <workItem from="1666579418268" duration="583000" />
-      <workItem from="1667559780258" duration="9797000" />
+      <workItem from="1667559780258" duration="12017000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <created>1666577968808</created>
@@ -127,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666579041464</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.选择排序&#10;2.冒泡排序&#10;3.插入排序&#10;4.归并排序">
+      <created>1667571833539</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667571833539</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +211,7 @@
       <path value="$PROJECT_DIR$/algorithm2022" />
     </ignored-roots>
     <MESSAGE value="项目初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
+    <MESSAGE value="1.选择排序&#10;2.冒泡排序&#10;3.插入排序&#10;4.归并排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.选择排序&#10;2.冒泡排序&#10;3.插入排序&#10;4.归并排序" />
   </component>
 </project>
